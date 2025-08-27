@@ -5,896 +5,896 @@
     <name>AppGrid</name>
     <message>
         <source>Most used</source>
-        <translation type="unfinished"></translation>
+        <translation>Mest brukt</translation>
     </message>
     <message>
         <source>apps</source>
-        <translation type="unfinished"></translation>
+        <translation>apper</translation>
     </message>
     <message>
         <source>Other apps</source>
-        <translation type="unfinished"></translation>
+        <translation>Andre apper</translation>
     </message>
     <message>
         <source>Apps</source>
-        <translation type="unfinished"></translation>
+        <translation>Apper</translation>
     </message>
     <message>
         <source>Filter apps</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrer apper</translation>
     </message>
     <message>
         <source>Add to shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Legg til i snarveier</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Åpn</translation>
     </message>
     <message>
         <source>Open Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Åpn snarvei</translation>
     </message>
     <message>
         <source>Open App</source>
-        <translation type="unfinished"></translation>
+        <translation>Åpn app</translation>
     </message>
     <message>
         <source>Remove App</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjern app</translation>
     </message>
     <message>
         <source>Remove Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjern bokmerke</translation>
     </message>
     <message>
         <source>Add to new group</source>
-        <translation type="unfinished"></translation>
+        <translation>Legg til i ny gruppe</translation>
     </message>
     <message>
         <source>Remove from group</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjern fra gruppe</translation>
     </message>
     <message>
         <source>Use custom groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Bruk egendefinerte grupper</translation>
     </message>
     <message>
         <source>Remove group</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjern gruppe</translation>
     </message>
     <message>
         <source>Edit groupname</source>
-        <translation type="unfinished"></translation>
+        <translation>Rediger gruppenavn</translation>
     </message>
     <message>
         <source>Group name</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruppenavn</translation>
     </message>
     <message>
         <source>Enter a group name</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv inn et gruppenavn</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Group name must have at least one character.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruppenavn må ha minst ett tegn.</translation>
     </message>
     <message>
         <source>New pinned shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny fast snarvei</translation>
     </message>
     <message>
         <source>Pinned shortcut already exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Snarvei finnes allerede</translation>
     </message>
 </context>
 <context>
     <name>AppGridMenuItem</name>
     <message>
         <source>Add to </source>
-        <translation type="unfinished"></translation>
+        <translation>Legg til i </translation>
     </message>
 </context>
 <context>
     <name>Checkbox</name>
     <message>
         <source>Chip</source>
-        <translation type="unfinished"></translation>
+        <translation>Brikke</translation>
     </message>
 </context>
 <context>
     <name>Collections</name>
     <message>
         <source>People</source>
-        <translation type="unfinished"></translation>
+        <translation>Personer</translation>
     </message>
     <message>
         <source>Find people ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Finn personer...</translation>
     </message>
     <message>
         <source>Threads</source>
-        <translation type="unfinished"></translation>
+        <translation>Tråder</translation>
     </message>
     <message>
         <source>Find thread ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Finn tråd...</translation>
     </message>
     <message>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyheter</translation>
     </message>
     <message>
         <source>Find news ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Finn nyheter...</translation>
     </message>
     <message>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Notater</translation>
     </message>
     <message>
         <source>Find note ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Finn notat...</translation>
     </message>
     <message>
         <source>Filter collections</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrér samlinger</translation>
     </message>
     <message>
         <source>Call</source>
-        <translation type="unfinished"></translation>
+        <translation>Ring</translation>
     </message>
     <message>
         <source>Send Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Send melding</translation>
     </message>
     <message>
         <source>Send Email</source>
-        <translation type="unfinished"></translation>
+        <translation>Send e-post</translation>
     </message>
     <message>
         <source>Open Contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Åpn kontakt</translation>
     </message>
     <message>
         <source>Open in Signal</source>
-        <translation type="unfinished"></translation>
+        <translation>Åpn i Signal</translation>
     </message>
     <message>
         <source>Private</source>
-        <translation type="unfinished"></translation>
+        <translation>Privat</translation>
     </message>
     <message>
         <source>New message</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny melding</translation>
     </message>
     <message>
         <source>New calls</source>
-        <translation type="unfinished"></translation>
+        <translation>Nye samtaler</translation>
     </message>
     <message>
         <source>New call</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny samtale</translation>
     </message>
     <message>
         <source>You</source>
-        <translation type="unfinished"></translation>
+        <translation>Deg</translation>
     </message>
     <message>
         <source>Could not load RSS feed: </source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke parse RSS-strøm: </translation>
     </message>
     <message>
         <source>Invalid RSS feed: </source>
-        <translation type="unfinished"></translation>
+        <translation>Ugyldig RSS-strøm: </translation>
     </message>
     <message>
         <source>Missing RSS item: </source>
-        <translation type="unfinished"></translation>
+        <translation>Manglende RSS-element: </translation>
     </message>
 </context>
 <context>
     <name>Conversation</name>
     <message>
         <source>Conversation</source>
-        <translation type="unfinished"></translation>
+        <translation>Samtale</translation>
     </message>
     <message>
         <source>Filter messages ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrer meldinger...</translation>
     </message>
     <message>
         <source>Type your message</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv meldingen din</translation>
     </message>
     <message>
         <source>Attached image is not available for preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Vedlagt bilde er ikke tilgjengelig for forhåndsvisning</translation>
     </message>
     <message>
         <source>Not yet supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Understøttes senere</translation>
     </message>
     <message>
         <source>Message not sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Meldingen ble ikke sendt</translation>
     </message>
 </context>
 <context>
     <name>Details</name>
     <message>
         <source>Not yet supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Understøttes senere</translation>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Åpn i nettleser</translation>
     </message>
     <message>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>Del</translation>
     </message>
 </context>
 <context>
     <name>Feed</name>
     <message>
         <source>Feed</source>
-        <translation type="unfinished"></translation>
+        <translation>Strøm</translation>
     </message>
     <message>
         <source>Filter news ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrér nyheter...</translation>
     </message>
     <message>
         <source>Not yet supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Understøttes senere</translation>
     </message>
 </context>
 <context>
     <name>OnBoarding</name>
     <message>
         <source>Start writing and get suggestions for completion and functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Så snart du begynner å skrive gis forslag til fullføring og funksjoner</translation>
     </message>
     <message>
         <source>Show demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis demo</translation>
     </message>
     <message>
         <source>Touch the red dot, drag to a menu item and release for your selection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Trykk på den røde sirklen, dra til det ønskede menyelementet og slipp for å velge.</translation>
     </message>
     <message>
         <source>Use smart content collections for recent contacts, messages, news and notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Bruk smarte innholdssamlinger for ferske kontakter, meldinger, nyheter og notater</translation>
     </message>
     <message>
         <source>Swipe to the right to see the app overview</source>
-        <translation type="unfinished"></translation>
+        <translation>Sveip til høyre for å åpne appoversikten</translation>
     </message>
     <message>
         <source>Next hint</source>
-        <translation type="unfinished"></translation>
+        <translation>Neste hint</translation>
     </message>
     <message>
         <source>Swipe to the right to see the launcher settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Sveip til høyre for å se oppstartsinnstillinger</translation>
     </message>
     <message>
         <source>Finish</source>
-        <translation type="unfinished"></translation>
+        <translation>Fullfør</translation>
     </message>
     <message>
         <source>Hello World</source>
-        <translation type="unfinished"></translation>
+        <translation>Hallo verden</translation>
     </message>
     <message>
         <source>Learn about more use cases in the printed manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Lær flere bruksområder i den trykte manualen</translation>
     </message>
 </context>
 <context>
     <name>Settings</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Innstillinger</translation>
     </message>
     <message>
         <source>Dark Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Sort modus</translation>
     </message>
     <message>
         <source>Light Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Hvit modus</translation>
     </message>
     <message>
         <source>Dark Translucent Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Sort gjennomsiktig modus</translation>
     </message>
     <message>
         <source>Light Translucent Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Hvit gjennomsiktig modus</translation>
     </message>
     <message>
         <source>Security mode is OFF</source>
-        <translation type="unfinished"></translation>
+        <translation>Sikkerhetsmodus er AV</translation>
     </message>
     <message>
         <source>Security mode is ON</source>
-        <translation type="unfinished"></translation>
+        <translation>Sikkerhetsmodus er PÅ</translation>
     </message>
     <message>
         <source>Enter password</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv passord</translation>
     </message>
     <message>
         <source>Repeat password</source>
-        <translation type="unfinished"></translation>
+        <translation>Gjenta passord</translation>
     </message>
     <message>
         <source>Keep existing Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Behold eksisterende passord</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Wrong password confirmation</source>
-        <translation type="unfinished"></translation>
+        <translation>Passordene stemmer ikke overens</translation>
     </message>
     <message>
         <source>Password needs at least four characters or numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Passord må ha minst fire tegn eller tall</translation>
     </message>
     <message>
         <source>Wrong password</source>
-        <translation type="unfinished"></translation>
+        <translation>Feil passord</translation>
     </message>
     <message>
         <source>News Channels</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyhetskanaler</translation>
     </message>
     <message>
         <source>Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Snarveier</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Åpn</translation>
     </message>
     <message>
         <source>Source settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Kilde</translation>
     </message>
     <message>
         <source>Signal</source>
-        <translation type="unfinished"></translation>
+        <translation>Signal</translation>
     </message>
     <message>
         <source>Signal app is not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Signal er ikke installert</translation>
     </message>
     <message>
         <source>Search engines</source>
-        <translation type="unfinished"></translation>
+        <translation>Søkemotorer</translation>
     </message>
     <message>
         <source>DuckDuckGo</source>
-        <translation type="unfinished"></translation>
+        <translation>DuckDuckGo</translation>
     </message>
     <message>
         <source>Startpage</source>
-        <translation type="unfinished"></translation>
+        <translation>Startpage</translation>
     </message>
     <message>
         <source>MetaGer</source>
-        <translation type="unfinished"></translation>
+        <translation>MetaGer</translation>
     </message>
     <message>
         <source>Display and menus</source>
-        <translation type="unfinished"></translation>
+        <translation>Skjerm og menyer</translation>
     </message>
     <message>
         <source>Fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>Fullskjerm</translation>
     </message>
     <message>
         <source>Use colored app icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Fargede ikoner</translation>
     </message>
     <message>
         <source>Show apps at startup</source>
-        <translation type="unfinished"></translation>
+        <translation>App-samlingen som startside</translation>
     </message>
     <message>
         <source>Use haptic menus</source>
-        <translation type="unfinished"></translation>
+        <translation>Haptiske menyer</translation>
     </message>
     <message>
         <source>Show frequently used apps</source>
-        <translation type="unfinished"></translation>
+        <translation>Mest brukte apper</translation>
     </message>
     <message>
         <source>Use app categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategoriserte apper</translation>
     </message>
     <message>
         <source>Background blur</source>
-        <translation type="unfinished"></translation>
+        <translation>Justér skarphet</translation>
     </message>
     <message>
         <source>Weather</source>
-        <translation type="unfinished"></translation>
+        <translation>Vær</translation>
     </message>
     <message>
         <source>Clock</source>
-        <translation type="unfinished"></translation>
+        <translation>Klokke</translation>
     </message>
     <message>
         <source>Note</source>
-        <translation type="unfinished"></translation>
+        <translation>Notat</translation>
     </message>
     <message>
         <source>Widgets</source>
-        <translation type="unfinished"></translation>
+        <translation>Widgets</translation>
     </message>
     <message>
         <source>Springboard Skills</source>
-        <translation type="unfinished"></translation>
+        <translation>Springbrett</translation>
     </message>
     <message>
         <source>Couldn&apos;t load available plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilgjengelige plugins ble ikke lastet</translation>
     </message>
     <message>
         <source>Reset options</source>
-        <translation type="unfinished"></translation>
+        <translation>Nullstill alternativer</translation>
     </message>
     <message>
         <source>Reset news feeds</source>
-        <translation type="unfinished"></translation>
+        <translation>Nullstill nyhetsstrøm</translation>
     </message>
     <message>
         <source>Reset shorcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Nullstill snarveier</translation>
     </message>
     <message>
         <source>Reload contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Last kontakter på nytt</translation>
     </message>
     <message>
         <source>Reset launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Nullstill Volla Launcher</translation>
     </message>
 </context>
 <context>
     <name>Springboard</name>
     <message>
         <source>Sunday</source>
-        <translation type="unfinished"></translation>
+        <translation>Søndag</translation>
     </message>
     <message>
         <source>Monday</source>
-        <translation type="unfinished"></translation>
+        <translation>Mandag</translation>
     </message>
     <message>
         <source>Tuesday</source>
-        <translation type="unfinished"></translation>
+        <translation>Tirsdag</translation>
     </message>
     <message>
         <source>Wednesday</source>
-        <translation type="unfinished"></translation>
+        <translation>Onsdag</translation>
     </message>
     <message>
         <source>Thursday</source>
-        <translation type="unfinished"></translation>
+        <translation>Torsdag</translation>
     </message>
     <message>
         <source>Friday</source>
-        <translation type="unfinished"></translation>
+        <translation>Fredag</translation>
     </message>
     <message>
         <source>Saturday</source>
-        <translation type="unfinished"></translation>
+        <translation>Lørdag</translation>
     </message>
     <message>
         <source>tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>i morgen</translation>
     </message>
     <message>
         <source>Springboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Springbrett</translation>
     </message>
     <message>
         <source>Type anything</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv noe...</translation>
     </message>
     <message>
         <source>Sorry. I couldn&apos;t find a phone number for this contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Beklager, intet telefonnummer for denne kontakten</translation>
     </message>
     <message>
         <source>Sorry. I couldn&apos;t identify the contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Beklager, kontakten kunnne ikke identifiseres</translation>
     </message>
     <message>
         <source>Sorry, no contact was selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Beklager, ingen kontakt ble valgt</translation>
     </message>
     <message>
         <source>Sorry, the mobile phone number is unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Beklager, mobilnummeret er ukjent</translation>
     </message>
     <message>
         <source>Sorry. Contact has no email address</source>
-        <translation type="unfinished"></translation>
+        <translation>Beklager, kontakten har ingen e-postadresse</translation>
     </message>
     <message>
         <source>New note saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Notatet ble lagret</translation>
     </message>
     <message>
         <source>New contact saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny kontakt lble agret</translation>
     </message>
     <message>
         <source>An error occured</source>
-        <translation type="unfinished"></translation>
+        <translation>En feil oppstod</translation>
     </message>
     <message>
         <source>Please reset contacts and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vennligst nullstill kontakter og prøv igjen.</translation>
     </message>
     <message>
         <source>Speed dial</source>
-        <translation type="unfinished"></translation>
+        <translation>Hurtigvalg</translation>
     </message>
     <message>
         <source>There was no outgoing call in the last days.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det var ingen utgående samtaler de siste dagene.</translation>
     </message>
     <message>
         <source>weather</source>
-        <translation type="unfinished"></translation>
+        <translation>vær</translation>
     </message>
     <message>
         <source>Set location</source>
-        <translation type="unfinished"></translation>
+        <translation>Angi sted</translation>
     </message>
     <message>
         <source>Enter any location</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv inn et sted</translation>
     </message>
     <message>
         <source>My event</source>
-        <translation type="unfinished"></translation>
+        <translation>Min begivenhet</translation>
     </message>
     <message>
         <source>x</source>
-        <translation type="unfinished"></translation>
+        <translation>x</translation>
     </message>
 </context>
 <context>
     <name>SttSetup</name>
     <message>
         <source>Now set up voice recognition for text input, which you can then activate using the microphone icon on the keyboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurér talegjenkjenning for tekstinput, aktivér ved å trykke på tastaturets mikrofonikon.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
     <name>main</name>
     <message>
         <source>Volla</source>
-        <translation type="unfinished"></translation>
+        <translation>Volla</translation>
     </message>
     <message>
         <source>Send message</source>
-        <translation type="unfinished"></translation>
+        <translation>Send melding</translation>
     </message>
     <message>
         <source>Send email</source>
-        <translation type="unfinished"></translation>
+        <translation>Send e-post</translation>
     </message>
     <message>
         <source>Send home email</source>
-        <translation type="unfinished"></translation>
+        <translation>Send hjemme-e-post</translation>
     </message>
     <message>
         <source>Send work email</source>
-        <translation type="unfinished"></translation>
+        <translation>Send jobb-e-post</translation>
     </message>
     <message>
         <source>Send other email</source>
-        <translation type="unfinished"></translation>
+        <translation>Send annen e-post</translation>
     </message>
     <message>
         <source>Call</source>
-        <translation type="unfinished"></translation>
+        <translation>Ring</translation>
     </message>
     <message>
         <source>Create speed dial</source>
-        <translation type="unfinished"></translation>
+        <translation>Opprett hurtigvalg</translation>
     </message>
     <message>
         <source>Call on cell phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Ring på mobil</translation>
     </message>
     <message>
         <source>Call at home</source>
-        <translation type="unfinished"></translation>
+        <translation>Ring hjemme</translation>
     </message>
     <message>
         <source>Call at work</source>
-        <translation type="unfinished"></translation>
+        <translation>Ring på jobb</translation>
     </message>
     <message>
         <source>Call other phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Ring annet nummer</translation>
     </message>
     <message>
         <source>Create note</source>
-        <translation type="unfinished"></translation>
+        <translation>Opprett notat</translation>
     </message>
     <message>
         <source>Search web</source>
-        <translation type="unfinished"></translation>
+        <translation>Søk på nett</translation>
     </message>
     <message>
         <source>Create new contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Opprett ny kontakt</translation>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Åpn i nettleser</translation>
     </message>
     <message>
         <source>Add feed to collection</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilføy RSS i samling</translation>
     </message>
     <message>
         <source>Open Contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Åpn kontakt</translation>
     </message>
     <message>
         <source>Show Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis notater</translation>
     </message>
     <message>
         <source>Send Signal message</source>
-        <translation type="unfinished"></translation>
+        <translation>Send melding via Signal</translation>
     </message>
     <message>
         <source>Add to Calender</source>
-        <translation type="unfinished"></translation>
+        <translation>Legg til i kalender</translation>
     </message>
     <message>
         <source>Show in Signal</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis i Signal</translation>
     </message>
     <message>
         <source>Redial</source>
-        <translation type="unfinished"></translation>
+        <translation>Ring på nytt</translation>
     </message>
     <message>
         <source>Missing message text</source>
-        <translation type="unfinished"></translation>
+        <translation>Manglende meldingstekst</translation>
     </message>
     <message>
         <source>Message sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Melding sendt</translation>
     </message>
     <message>
         <source>Generic failure</source>
-        <translation type="unfinished"></translation>
+        <translation>Generell feil</translation>
     </message>
     <message>
         <source>No service</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen dekning</translation>
     </message>
     <message>
         <source>Null PDU</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen PDU</translation>
     </message>
     <message>
         <source>Radio off</source>
-        <translation type="unfinished"></translation>
+        <translation>Radio av</translation>
     </message>
     <message>
         <source>Message delivered</source>
-        <translation type="unfinished"></translation>
+        <translation>Meldingen ble levert</translation>
     </message>
     <message>
         <source>Message not delivered</source>
-        <translation type="unfinished"></translation>
+        <translation>Meldingen ble ikke levert</translation>
     </message>
     <message>
         <source>Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Filer</translation>
     </message>
     <message>
         <source>Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Meldinger</translation>
     </message>
     <message>
         <source>Music</source>
-        <translation type="unfinished"></translation>
+        <translation>Musikk</translation>
     </message>
     <message>
         <source>Bancontact</source>
-        <translation type="unfinished"></translation>
+        <translation>Bancontact</translation>
     </message>
     <message>
         <source>De Trein</source>
-        <translation type="unfinished"></translation>
+        <translation>De Trein</translation>
     </message>
     <message>
         <source>Mynexuzhealth</source>
-        <translation type="unfinished"></translation>
+        <translation>Mynexuzhealth</translation>
     </message>
     <message>
         <source>Bonsai</source>
-        <translation type="unfinished"></translation>
+        <translation>Bonsai</translation>
     </message>
     <message>
         <source>MijnOnlineAgenda</source>
-        <translation type="unfinished"></translation>
+        <translation>MijnOnlineAgenda</translation>
     </message>
     <message>
         <source>Facebook</source>
-        <translation type="unfinished"></translation>
+        <translation>Facebook</translation>
     </message>
     <message>
         <source>Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Nettleser</translation>
     </message>
     <message>
         <source>Mail</source>
-        <translation type="unfinished"></translation>
+        <translation>E-post</translation>
     </message>
     <message>
         <source>Sync</source>
-        <translation type="unfinished"></translation>
+        <translation>Synkronisér</translation>
     </message>
     <message>
         <source>VPN</source>
-        <translation type="unfinished"></translation>
+        <translation>VPN</translation>
     </message>
     <message>
         <source>Store</source>
-        <translation type="unfinished"></translation>
+        <translation>Butikk</translation>
     </message>
     <message>
         <source>A-Droid</source>
-        <translation type="unfinished"></translation>
+        <translation>A-Droid</translation>
     </message>
     <message>
         <source>Maps</source>
-        <translation type="unfinished"></translation>
+        <translation>Kart</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Innstillinger</translation>
     </message>
     <message>
         <source>Radio</source>
-        <translation type="unfinished"></translation>
+        <translation>Radio</translation>
     </message>
     <message>
         <source>Weather</source>
-        <translation type="unfinished"></translation>
+        <translation>Vær</translation>
     </message>
     <message>
         <source>Show Dialer</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis telefonapp</translation>
     </message>
     <message>
         <source>Camera</source>
-        <translation type="unfinished"></translation>
+        <translation>Kamera</translation>
     </message>
     <message>
         <source>Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Galleri</translation>
     </message>
     <message>
         <source>Agenda</source>
-        <translation type="unfinished"></translation>
+        <translation>Agenda</translation>
     </message>
     <message>
         <source>Create Event</source>
-        <translation type="unfinished"></translation>
+        <translation>Opprett begivenhet</translation>
     </message>
     <message>
         <source>Recent News</source>
-        <translation type="unfinished"></translation>
+        <translation>Ferske nyheter</translation>
     </message>
     <message>
         <source>Recent Threads</source>
-        <translation type="unfinished"></translation>
+        <translation>Ferske tråder</translation>
     </message>
     <message>
         <source>Recent People</source>
-        <translation type="unfinished"></translation>
+        <translation> Ferske kontakter</translation>
     </message>
     <message>
         <source>Just now</source>
-        <translation type="unfinished"></translation>
+        <translation>Akkurat nå</translation>
     </message>
     <message>
         <source>minutes ago</source>
-        <translation type="unfinished"></translation>
+        <translation>minutter siden</translation>
     </message>
     <message>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>I dag</translation>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>I går</translation>
     </message>
     <message>
         <source>New Subscrption</source>
-        <translation type="unfinished"></translation>
+        <translation>Nytt abonnement</translation>
     </message>
     <message>
         <source>You have already subscribed the feed</source>
-        <translation type="unfinished"></translation>
+        <translation>Du har allerede abonnert på denne RSS-strømmen</translation>
     </message>
     <message>
         <source>Invalid news ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Ugyldig nyhets-ID</translation>
     </message>
     <message>
         <source>Error because of too much redirects</source>
-        <translation type="unfinished"></translation>
+        <translation>Feil på grunn av for mange omdirigeringer</translation>
     </message>
     <message>
         <source>Could not load a valid feed</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke laste en gyldig RSS-strøm</translation>
     </message>
     <message>
         <source>Invalid RSS feed: </source>
-        <translation type="unfinished"></translation>
+        <translation>Ugyldig RSS-strøm: </translation>
     </message>
     <message>
         <source>New shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny snarvei</translation>
     </message>
     <message>
-        <source>You have alresdy added the shortcut</source>
-        <translation type="unfinished"></translation>
+        <source>You have already added the shortcut</source>
+        <translation>Du har allerede lagt til denne snarveien</translation>
     </message>
     <message>
         <source>Reset successful</source>
-        <translation type="unfinished"></translation>
+        <translation>Nullstilling vellykket</translation>
     </message>
     <message>
         <source>Couldn&apos;t load plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke laste plugin</translation>
     </message>
     <message>
         <source>Not yet supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Understøttes senere</translation>
     </message>
 </context>
 </TS>
